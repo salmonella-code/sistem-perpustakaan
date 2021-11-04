@@ -50,7 +50,7 @@ user yang terdaftar pada website ini adalah
 ## Demo
 
 Silahkan klik link dibawah ini untuk melihat demo di kanal youtube saya
-[link demo](https://www.youtube.com/watch?v=J1hPGM65BaU)  
+[link demo](https://youtu.be/a7Oer7Vr7HE)  
 ## Badges
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
