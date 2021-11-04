@@ -34,7 +34,7 @@ if (!isset($_SESSION["login"])) {
             </div>
             <ul class="list-unstyled components">
                 <li>
-                    <a href="#" class="a-link"><i class="fas fa-fw fa-home"></i>Beranda</a>
+                    <a href="index.php?p=beranda" class="a-link"><i class="fas fa-fw fa-home"></i>Beranda</a>
                 </li>
                 <li class="label">
                     <span>Data Master</span>
