@@ -32,7 +32,7 @@ if (isset($_POST["submit"])) {
 <div class="card border-0 shadow">
     <div class="card-body">
         <form action="" method="post">
-            <input type="text" value="<?= $buku['idbuku']; ?>" id="id" name="id">
+            <input type="hidden" value="<?= $buku['idbuku']; ?>" id="id" name="id">
             <div class="form-group">
                 <label for="idBuku" class="font-weight-bold">ID Buku<span class="text-danger">*</span></label>
                 <input type="text" class="form-control" value="<?= $buku['idbuku']; ?>" id="idBuku" name="idBuku" placeholder="Masukkan ID Buku" required disabled>
